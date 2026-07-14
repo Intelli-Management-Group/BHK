@@ -39,4 +39,7 @@ return [
 
     'footer_copy_right' => 'Hong Kong\'s War of Resistance History. All Rights Reserved.',
 
+    'under_construction_title' => 'Under Construction',
+    'under_construction_body' => 'This site is being updated. Please check back soon.',
+
 ];

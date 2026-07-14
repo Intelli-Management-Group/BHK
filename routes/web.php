@@ -28,7 +28,9 @@ Route::get('/lang/{locale}', function ($locale) {
 | Pages
 |--------------------------------------------------------------------------
 */
+Route::view('/', 'under-construction', [], 503)->name('home');
 
+/*
 Route::view('/', 'home')->name('home');
 
 Route::view('battle-of-hong-kong', 'battle-of-hong-kong.index')->name('battle.index');
@@ -40,3 +42,4 @@ Route::get('galleries', [GalleryController::class, 'index'])->name('galleries.in
 Route::get('galleries/{slug}', [GalleryController::class, 'show'])->name('galleries.show');
 Route::get('press-releases', [PressReleaseController::class, 'index'])->name('press-releases.index');
 Route::get('press-releases/{slug}', [PressReleaseController::class, 'show'])->name('press-releases.show');
+*/

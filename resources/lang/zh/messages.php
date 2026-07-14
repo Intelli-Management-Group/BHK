@@ -37,5 +37,8 @@ return [
     'contact_label' => '如有任何疑問，歡迎透過以下方式聯絡我們：',
     'contact_mail' => '電郵：',
 
-    'footer_copy_right' => '香港抗戰歷史 版權所有'
+    'footer_copy_right' => '香港抗戰歷史 版權所有',
+
+    'under_construction_title' => '網站建設中',
+    'under_construction_body' => '網站正在更新，請稍後再來。',
 ];
