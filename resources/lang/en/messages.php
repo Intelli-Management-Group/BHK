@@ -17,7 +17,7 @@ return [
 
     'occupation' => 'Occupation <br class="d-none d-xl-block">of Hong Kong',
     'occupation_dropdown_1' => 'Japanese Rule in Hong Kong',
-    'occupation_dropdown_2' => 'Survival and Rationing in Crisis in Crisis',
+    'occupation_dropdown_2' => 'Survival and Rationing in Crisis',
     'occupation_dropdown_3' => 'Economy and Society Under Occupation',
     'occupation_dropdown_4' => 'Everyday Life Under Occupation',
 

@@ -8,7 +8,7 @@ return [
 
         // Tabs
         'tab_1' => 'Japanese Rule in Hong Kong',
-        'tab_2' => 'Survival and Rationing in Crisis in Crisis',
+        'tab_2' => 'Survival and Rationing in Crisis',
         'tab_3' => 'Economy and Society Under Occupation',
         'tab_4' => 'Everyday Life Under Occupation',
 
@@ -68,7 +68,7 @@ return [
 
     // tab 2
     'survival_title' => 'Survival and Rationing in Crisis',
-    'survival_subtitle' => 'Survival and Rationing in Crisis in Crisis',
+    'survival_subtitle' => 'Survival and Rationing in Crisis',
     'survival_intro' => 'One of the most immediate and pressing challenges faced by Hong Kong\'s residents during the Japanese occupation was survival itself. Before the war, Hong Kong depended heavily on imported food and regional trade networks to sustain its population. After the Japanese occupation, transportation routes were disrupted, trade connections severed, and resources requisitioned for military purposes. The city\'s established supply system quickly collapsed.',
 
     'survival_section_1_title' => 'Living Through Shortage and Uncertainty',

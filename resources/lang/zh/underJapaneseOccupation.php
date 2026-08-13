@@ -69,7 +69,7 @@ return [
 
          // tab 2
         'survival_title' => '生存與配給',
-        'survival_subtitle' => 'Survival and Rationing in Crisis in Crisis',
+        'survival_subtitle' => 'Survival and Rationing in Crisis',
         'survival_intro' => '日治下的香港，最直接、最沉重的問題之一，是如何活下去。戰前的香港依賴進口糧食和區域貿易維持城市供應；日軍佔領後，交通受阻、貿易中斷、物資被徵用，原有供應系統迅速崩潰。',
 
         'survival_section_1_title' => '在短缺中求存',
