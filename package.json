@@ -1,23 +1,23 @@
 {
-    "$schema": "https://www.schemastore.org/package.json",
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "build": "vite build",
-        "dev": "vite"
-    },
-    "devDependencies": {
-        "@popperjs/core": "^2.11.8",
-        "axios": "^1.11.0",
-        "bootstrap": "^5.3.8",
-        "concurrently": "^9.0.1",
-        "laravel-vite-plugin": "^3.1.0",
-        "swiper": "^12.1.4",
-        "vite": "^8.0.10"
-    },
-    "dependencies": {
-        "justified-layout": "^4.1.0",
-        "photoswipe": "^5.4.4",
-        "sortablejs": "^1.15.7"
-    }
+  "$schema": "https://www.schemastore.org/package.json",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node api.js && vite build",
+    "dev": "node api.js && vite"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.11.0",
+    "bootstrap": "^5.3.8",
+    "concurrently": "^9.0.1",
+    "laravel-vite-plugin": "^3.1.0",
+    "swiper": "^12.1.4",
+    "vite": "^8.0.10"
+  },
+  "dependencies": {
+    "justified-layout": "^4.1.0",
+    "photoswipe": "^5.4.4",
+    "sortablejs": "^1.15.7"
+  }
 }
